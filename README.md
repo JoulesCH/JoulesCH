@@ -4,8 +4,10 @@
 
 ```python
 if you_are == my_teacher:
-   print('Just search for the ropository of the proyect 🖥💯')
- else:
+   print('Just search for the ropository of my proyect 🖥💯')
+elif you_want == contact_me:
+   print('Email: joules.hdz@gmail.com')
+else:
    Introduce_myself()
 ```
   
