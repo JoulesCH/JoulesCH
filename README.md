@@ -15,4 +15,3 @@ else:
    Read_my_intro()
 ```
   
-> In the face of ambiguity, refuse the temptation to guess.
