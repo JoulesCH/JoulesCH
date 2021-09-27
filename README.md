@@ -8,7 +8,7 @@
 <a href="mailto:joules.hdz@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/email.png"/></a>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=JoulesCH&show_icons=true&count_private=true&theme=radical" width="500" height="auto"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoulesCH&layout=compact&theme=radical" width="208" height="auto"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoulesCH&layout=default&theme=radical" width="208" height="auto"/>
 
 # Hello world 👋
 
