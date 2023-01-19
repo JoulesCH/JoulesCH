@@ -12,6 +12,4 @@
 
 # Hello world 👋
 
-I'm currently studying computer science at National Autonomous University of Mexico (UNAM) and engineering at National Polytechnic Institute (ESFM-IPN).
-
-Also I'm a member of [ESFM-X](https://esfm-x.com) where I organize events like [hackathons](https://hackathon.esfm-x.com) or programming clubs; there I do backend development for the systems that are needed, and I direct tech courses at the [ESFM's Programming Club (CdP ESFM)](https://cdp.esfm-x.com)
+I am passionate about solving problems, my mathematical approach allows me to do it in a systematic and efficient way, especially if it involves learning new things. During my school stay I have led development teams to automate administrative processes, which has led me to gain experience in agile methodologies, web development, data engineering and testing.
