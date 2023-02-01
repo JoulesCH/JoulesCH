@@ -12,6 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=JoulesCH&show_icons=true&count_private=true&theme=transparent" width="500" height="auto"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoulesCH&layout=default&theme=transparent" width="208" height="auto"/>
 </h1>
+
 # Hello world 👋
 
 I am passionate about solving problems, my mathematical approach allows me to do it in a systematic and efficient way, especially if it involves learning new things. During my school stay I have led development teams to automate administrative processes, which has led me to gain experience in agile methodologies, web development, data engineering and testing.
